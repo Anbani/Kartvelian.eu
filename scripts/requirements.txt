@@ -1,0 +1,3 @@
+# check.py deps; CI pins the same.
+pyyaml==6.0.3
+toons==0.5.4

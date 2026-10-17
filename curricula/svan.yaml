@@ -1,0 +1,17 @@
+# Svan: levels → modules. Live when lessons/svan/ has the same level + pageSlug.
+levels:
+- id: intro
+  icon: sprout
+  title: Introduction to Svan
+  cefr: –
+  focus: 'First steps in Svan: the alphabet (Mkhedruli plus the Svan-specific vowel letters), basic phrases, and
+    a short orientation to where Svan parts company with Georgian.'
+  modules:
+  - num: 1
+    title: Svan Alphabet & Sounds
+    blurb: The 33 standard Mkhedruli letters, plus the Svan vowel extensions.
+    slug: alphabet
+  - num: 2
+    title: Greetings in Svan
+    blurb: Hello, goodbye, and the elementary introductions.
+    slug: greetings

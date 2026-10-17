@@ -1,0 +1,74 @@
+[
+  {
+    "letter": "ა̈",
+    "name": "ä",
+    "word": "ბა̈ჩ",
+    "meaning": "Stone",
+    "letterIpa": "/æ/",
+    "wordIpa": "/bæt͡ʃʰ/"
+  },
+  {
+    "letter": "ა̄",
+    "name": "ā",
+    "word": "ა̄დუ",
+    "meaning": "Yes",
+    "letterIpa": "/ɑː/",
+    "wordIpa": "/ɑːdu/"
+  },
+  {
+    "letter": "ა̄̈",
+    "name": "ǟ",
+    "word": "ჩა̄̈ჟ",
+    "meaning": "Horse",
+    "letterIpa": "/æː/",
+    "wordIpa": "/t͡ʃʰæːʒ/"
+  },
+  {
+    "letter": "ე̄",
+    "name": "ē",
+    "word": "ლე̄თ",
+    "meaning": "Night",
+    "letterIpa": "/ɛː/",
+    "wordIpa": "/lɛːtʰ/"
+  },
+  {
+    "letter": "ი̄",
+    "name": "ī",
+    "word": "ი̄სნაჳ",
+    "meaning": "Dream",
+    "letterIpa": "/iː/",
+    "wordIpa": "/iːsnɑw/"
+  },
+  {
+    "letter": "ო̈",
+    "name": "ö",
+    "word": "ფო̈ლ",
+    "meaning": "Hoof",
+    "letterIpa": "/ø/",
+    "wordIpa": "/pʰøl/"
+  },
+  {
+    "letter": "ო̄",
+    "name": "ō",
+    "word": "ყო̄რ",
+    "meaning": "Door",
+    "letterIpa": "/ɔː/",
+    "wordIpa": "/qʼɔːr/"
+  },
+  {
+    "letter": "უ̈",
+    "name": "ü",
+    "word": "კუ̈ლთხი",
+    "meaning": "High",
+    "letterIpa": "/y/",
+    "wordIpa": "/kʼyltʰxi/"
+  },
+  {
+    "letter": "უ̄",
+    "name": "ū",
+    "word": "ტუ̄ნუ",
+    "meaning": "Pot",
+    "letterIpa": "/uː/",
+    "wordIpa": "/tʼuːnu/"
+  }
+]

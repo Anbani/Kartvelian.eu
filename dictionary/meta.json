@@ -1,0 +1,26 @@
+{
+  "snapshot": "2026-10-17",
+  "source": "https://kaikki.org/dictionary/",
+  "counts": {
+    "georgian": {
+      "entries": 22000,
+      "verified": 33,
+      "wiktionary": 21993
+    },
+    "svan": {
+      "entries": 307,
+      "verified": 66,
+      "wiktionary": 260
+    },
+    "megrelian": {
+      "entries": 685,
+      "verified": 54,
+      "wiktionary": 648
+    },
+    "laz": {
+      "entries": 2030,
+      "verified": 53,
+      "wiktionary": 2009
+    }
+  }
+}

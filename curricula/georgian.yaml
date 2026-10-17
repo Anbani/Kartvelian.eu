@@ -1,0 +1,109 @@
+# Georgian: levels → modules. Live when lessons/georgian/ has the same level + pageSlug.
+levels:
+- id: level-1
+  icon: sprout
+  title: Survival Georgian
+  cefr: A1.1
+  focus: Phonetics, beginner reading, the indispensable survival phrases, and short sentences that politely defer
+    all complex grammar to a later module.
+  modules:
+  - num: 1
+    title: The Alphabet & Pronunciation
+    blurb: 'The Mkhedruli script: vowels, ejectives, and the sounds that live in the back of the throat.'
+    slug: alphabet
+  - num: 2
+    title: Greetings & Introductions
+    blurb: გამარჯობა, the art of introducing yourself, plus nationalities and languages.
+    slug: greetings
+  - num: 3
+    title: Basic Nouns & Plurals
+    blurb: The nominative case (no gender to remember), plurals in -ებ-, and the demonstratives.
+    slug: nouns
+  - num: 4
+    title: Numbers & Money
+    blurb: 1–10, the splendidly idiosyncratic vigesimal system from 11 to 99, currency, and shopping.
+    slug: numbers
+- id: level-2
+  icon: compass
+  title: Navigating Daily Life
+  cefr: A1.2
+  focus: Vocabulary expansion, the first cases, and the present tense of well-behaved verbs.
+  modules:
+  - num: 5
+    title: Postpositions
+    blurb: '-ში, -ზე, -თან, -დან: Georgia''s elegant alternative to prepositions.'
+    slug: postpositions
+  - num: 6
+    title: The Dative Case & To Want / To Have
+    blurb: The -ს marker, plus the famously unruly inversion verbs.
+    slug: dative-case
+  - num: 7
+    title: Verbs of Motion
+    blurb: მივდივარ versus მოვდივარ, the instrumental case for transport, and giving directions.
+    slug: motion-verbs
+  - num: 8
+    title: Time, Days & Routine
+    blurb: Days, months, telling time, and the adverbs of frequency.
+    slug: time-routine
+- id: level-3
+  icon: pillar
+  title: Action & Grammar Foundations
+  cefr: A2.1
+  focus: Subject–verb agreement, the genitive case, and present-tense actions of greater consequence.
+  modules:
+  - num: 9
+    title: Present Tense Overview
+    blurb: Subject and object markers, transitive versus intransitive, and a first encounter with the preverb.
+    slug: present-verbs
+  - num: 10
+    title: The Genitive Case (-ის)
+    blurb: Possession, nouns modifying nouns, and the family vocabulary.
+    slug: genitive-case
+  - num: 11
+    title: Food, Markets & Restaurants
+    blurb: Essential food vocabulary, the polite phrasing of an order, and the adjectives of taste.
+    slug: food
+- id: level-4
+  icon: hourglass
+  title: Moving Through Time
+  cefr: A2.2
+  focus: Future and past tenses, and a formal introduction to the ergative case.
+  modules:
+  - num: 12
+    title: The Future Tense
+    blurb: Adding preverbs, which quietly transmute the present into the future. Planning ahead.
+    slug: future-tense
+  - num: 13
+    title: The Aorist & The Ergative (Narrative) Case
+    blurb: The single greatest milestone in Georgian grammar.
+    slug: past-tense-aorist
+  - num: 14
+    title: Daily Transactions & Services
+    blurb: Renting, banking, and the vocabulary of staying alive in working order.
+    slug: services
+- id: level-5
+  icon: feather
+  title: Expression & Nuance
+  cefr: B1
+  focus: Optative mood, perfect tense, indirect speech, and the final stretch toward cultural fluency.
+  modules:
+  - num: 15
+    title: The Optative Mood
+    blurb: Desires, obligations, and the subjunctive clause.
+    slug: optative
+  - num: 16
+    title: The Perfect Tense (Evidentiality)
+    blurb: Reporting unseen events with თურმე, and the dative subject in its natural habitat.
+    slug: perfect-tense
+  - num: 17
+    title: Conjunctions & Complex Sentences
+    blurb: Because, therefore, but, although; relative clauses with რომელიც.
+    slug: complex-sentences
+  - num: 18
+    title: Deep Cultural Immersion
+    blurb: The supra, the slang, and the regional dialects.
+    slug: culture
+  - num: 19
+    title: The Art of the Georgian Toast
+    blurb: A deep dive into the Georgian toasting sequence, vocabulary, and the rules of the Supra.
+    slug: toasts

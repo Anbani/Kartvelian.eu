@@ -1,0 +1,15 @@
+name: Native speaker note
+description: How people actually say it, regional variants, usage the lessons miss.
+labels: [native-speaker]
+body:
+  - type: dropdown
+    id: language
+    attributes: {label: Language, options: [Georgian, Svan, Megrelian, Laz]}
+    validations: {required: true}
+  - type: input
+    id: variety
+    attributes: {label: Variety or region, description: "e.g. Upper Svan, Zugdidi, Laz of Hopa, Tbilisi"}
+  - type: textarea
+    id: note
+    attributes: {label: Your note, description: Mkhedruli plus a transliteration if you can.}
+    validations: {required: true}

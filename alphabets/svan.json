@@ -1,0 +1,298 @@
+[
+  {
+    "letter": "ა",
+    "name": "Ani",
+    "word": "ალ",
+    "meaning": "That",
+    "letterIpa": "/ɑ/",
+    "wordIpa": "/ɑl/"
+  },
+  {
+    "letter": "ბ",
+    "name": "Bani",
+    "word": "ბა̈ჩ",
+    "meaning": "Stone",
+    "letterIpa": "/b/",
+    "wordIpa": "/bæt͡ʃʰ/"
+  },
+  {
+    "letter": "გ",
+    "name": "Gani",
+    "word": "გიმ",
+    "meaning": "Earth / Land",
+    "letterIpa": "/ɡ/",
+    "wordIpa": "/ɡim/"
+  },
+  {
+    "letter": "დ",
+    "name": "Doni",
+    "word": "დოშდულ",
+    "meaning": "Moon",
+    "letterIpa": "/d/",
+    "wordIpa": "/dɔʃdul/"
+  },
+  {
+    "letter": "ე",
+    "name": "Eni",
+    "word": "ეშხუ",
+    "meaning": "One",
+    "letterIpa": "/ɛ/",
+    "wordIpa": "/ɛʃxu/"
+  },
+  {
+    "letter": "ვ",
+    "name": "Vini",
+    "word": "ჰა̈დვილ",
+    "meaning": "Easy",
+    "letterIpa": "/v/",
+    "wordIpa": "/hædvil/"
+  },
+  {
+    "letter": "ზ",
+    "name": "Zeni",
+    "word": "ზურა̄ლ",
+    "meaning": "Woman",
+    "letterIpa": "/z/",
+    "wordIpa": "/zurɑːl/"
+  },
+  {
+    "letter": "თ",
+    "name": "Tani",
+    "word": "თხე̄რე",
+    "meaning": "Wolf",
+    "letterIpa": "/tʰ/",
+    "wordIpa": "/tʰxɛːrɛ/"
+  },
+  {
+    "letter": "ი",
+    "name": "Ini",
+    "word": "იცხ",
+    "meaning": "Pear",
+    "letterIpa": "/i/",
+    "wordIpa": "/it͡sʰx/"
+  },
+  {
+    "letter": "ჲ",
+    "name": "Hie",
+    "word": "ჲეშდ",
+    "meaning": "Ten",
+    "letterIpa": "/j/",
+    "wordIpa": "/jɛʃd/"
+  },
+  {
+    "letter": "კ",
+    "name": "K'ani",
+    "word": "კოჯ",
+    "meaning": "Rock",
+    "letterIpa": "/kʼ/",
+    "wordIpa": "/kʼɔd͡ʒ/"
+  },
+  {
+    "letter": "ლ",
+    "name": "Lasi",
+    "word": "ლიც",
+    "meaning": "Water",
+    "letterIpa": "/l/",
+    "wordIpa": "/lit͡sʰ/"
+  },
+  {
+    "letter": "მ",
+    "name": "Mani",
+    "word": "მიჟ",
+    "meaning": "Sun",
+    "letterIpa": "/m/",
+    "wordIpa": "/miʒ/"
+  },
+  {
+    "letter": "ნ",
+    "name": "Nari",
+    "word": "ნინ",
+    "meaning": "Tongue / Language",
+    "letterIpa": "/n/",
+    "wordIpa": "/nin/"
+  },
+  {
+    "letter": "ო",
+    "name": "Oni",
+    "word": "ოხჳიშდ",
+    "meaning": "Five",
+    "letterIpa": "/ɔ/",
+    "wordIpa": "/ɔxwiʃd/"
+  },
+  {
+    "letter": "პ",
+    "name": "P'ari",
+    "word": "პილ",
+    "meaning": "Lip",
+    "letterIpa": "/pʼ/",
+    "wordIpa": "/pʼil/"
+  },
+  {
+    "letter": "ჟ",
+    "name": "Zhani",
+    "word": "ჟეღ",
+    "meaning": "Dog",
+    "letterIpa": "/ʒ/",
+    "wordIpa": "/ʒɛɣ/"
+  },
+  {
+    "letter": "რ",
+    "name": "Rae",
+    "word": "რა̈ჭჳ",
+    "meaning": "Rabbit",
+    "letterIpa": "/r/",
+    "wordIpa": "/ræt͡ʃʼw/"
+  },
+  {
+    "letter": "ს",
+    "name": "Sani",
+    "word": "სემი",
+    "meaning": "Three",
+    "letterIpa": "/s/",
+    "wordIpa": "/sɛmi/"
+  },
+  {
+    "letter": "ტ",
+    "name": "T'ari",
+    "word": "ტო̄მბ",
+    "meaning": "Lake",
+    "letterIpa": "/tʼ/",
+    "wordIpa": "/tʼɔːmb/"
+  },
+  {
+    "letter": "უ",
+    "name": "Uni",
+    "word": "უჩხა",
+    "meaning": "Rain",
+    "letterIpa": "/u/",
+    "wordIpa": "/ut͡ʃʰxɑ/"
+  },
+  {
+    "letter": "ჳ",
+    "name": "We",
+    "word": "ჳერბ",
+    "meaning": "Eagle",
+    "letterIpa": "/w/",
+    "wordIpa": "/wɛrb/"
+  },
+  {
+    "letter": "ჷ",
+    "name": "Yn",
+    "word": "ჷნსი",
+    "meaning": "Fast",
+    "letterIpa": "/ə/",
+    "wordIpa": "/ənsi/"
+  },
+  {
+    "letter": "ფ",
+    "name": "Pari",
+    "word": "ფექ",
+    "meaning": "Flour",
+    "letterIpa": "/pʰ/",
+    "wordIpa": "/pʰɛkʰ/"
+  },
+  {
+    "letter": "ქ",
+    "name": "Kani",
+    "word": "ქორ",
+    "meaning": "House",
+    "letterIpa": "/kʰ/",
+    "wordIpa": "/kʰɔr/"
+  },
+  {
+    "letter": "ღ",
+    "name": "Ghani",
+    "word": "ღე̄რბეთ",
+    "meaning": "God",
+    "letterIpa": "/ɣ/",
+    "wordIpa": "/ɣɛːrbɛtʰ/"
+  },
+  {
+    "letter": "ყ",
+    "name": "Q'ari",
+    "word": "ყო̄რ",
+    "meaning": "Door",
+    "letterIpa": "/qʼ/",
+    "wordIpa": "/qʼɔːr/"
+  },
+  {
+    "letter": "შ",
+    "name": "Shini",
+    "word": "შუკჳ",
+    "meaning": "Way / Road",
+    "letterIpa": "/ʃ/",
+    "wordIpa": "/ʃukʼw/"
+  },
+  {
+    "letter": "ჩ",
+    "name": "Chini",
+    "word": "ჩა̄̈ჟ",
+    "meaning": "Horse",
+    "letterIpa": "/t͡ʃʰ/",
+    "wordIpa": "/t͡ʃʰæːʒ/"
+  },
+  {
+    "letter": "ც",
+    "name": "Tsani",
+    "word": "ცხეკ",
+    "meaning": "Forest",
+    "letterIpa": "/t͡sʰ/",
+    "wordIpa": "/t͡sʰxɛkʼ/"
+  },
+  {
+    "letter": "ძ",
+    "name": "Dzili",
+    "word": "ძუღჳა",
+    "meaning": "Sea",
+    "letterIpa": "/d͡z/",
+    "wordIpa": "/d͡zuɣwɑ/"
+  },
+  {
+    "letter": "წ",
+    "name": "Ts'ili",
+    "word": "წიფხ",
+    "meaning": "Drop",
+    "letterIpa": "/t͡sʼ/",
+    "wordIpa": "/t͡sʼipʰx/"
+  },
+  {
+    "letter": "ჭ",
+    "name": "Ch'ari",
+    "word": "ჭალა̈ჲ",
+    "meaning": "River",
+    "letterIpa": "/t͡ʃʼ/",
+    "wordIpa": "/t͡ʃʼɑlæj/"
+  },
+  {
+    "letter": "ხ",
+    "name": "Khani",
+    "word": "ხოშა",
+    "meaning": "Large",
+    "letterIpa": "/x/",
+    "wordIpa": "/xɔʃɑ/"
+  },
+  {
+    "letter": "ჴ",
+    "name": "Qar",
+    "word": "ჴა̈ნ",
+    "meaning": "Bull",
+    "letterIpa": "/qʰ/",
+    "wordIpa": "/qʰæn/"
+  },
+  {
+    "letter": "ჯ",
+    "name": "Jani",
+    "word": "ჯიმ",
+    "meaning": "Salt",
+    "letterIpa": "/d͡ʒ/",
+    "wordIpa": "/d͡ʒim/"
+  },
+  {
+    "letter": "ჰ",
+    "name": "Hae",
+    "word": "ჰამ",
+    "meaning": "Morning",
+    "letterIpa": "/h/",
+    "wordIpa": "/hɑm/"
+  }
+]

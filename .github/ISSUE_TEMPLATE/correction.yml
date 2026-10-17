@@ -1,0 +1,23 @@
+name: Correction
+description: A wrong word, translation, transliteration, IPA or grammar point.
+labels: [correction]
+body:
+  - type: dropdown
+    id: language
+    attributes: {label: Language, options: [Georgian, Svan, Megrelian, Laz]}
+    validations: {required: true}
+  - type: input
+    id: where
+    attributes: {label: Where, description: "A kartvelian.eu link or a file path, e.g. lessons/georgian/level-1-2-greetings.md"}
+    validations: {required: true}
+  - type: textarea
+    id: wrong
+    attributes: {label: What it says now}
+    validations: {required: true}
+  - type: textarea
+    id: right
+    attributes: {label: What it should say}
+    validations: {required: true}
+  - type: input
+    id: source
+    attributes: {label: Source, description: "A dictionary, grammar, or 'native speaker from …'. Optional but helps."}

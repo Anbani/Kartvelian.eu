@@ -1,0 +1,17 @@
+# Megrelian: levels → modules. Live when lessons/megrelian/ has the same level + pageSlug.
+levels:
+- id: intro
+  icon: sprout
+  title: Introduction to Megrelian
+  cefr: –
+  focus: 'Megrelian basics: the alphabet, the sound differences from Georgian, and the everyday phrases of the Samegrelo
+    lowlands.'
+  modules:
+  - num: 1
+    title: Megrelian Alphabet & Sounds
+    blurb: Standard Mkhedruli, plus the Megrelian-specific letters.
+    slug: alphabet
+  - num: 2
+    title: Greetings in Megrelian
+    blurb: Common openings and the elementary introductions.
+    slug: greetings

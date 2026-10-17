@@ -1,0 +1,17 @@
+name: Lesson idea
+description: A topic, module or deck the curriculum should have.
+labels: [lesson-idea]
+body:
+  - type: dropdown
+    id: language
+    attributes: {label: Language, options: [Georgian, Svan, Megrelian, Laz, All four]}
+    validations: {required: true}
+  - type: textarea
+    id: idea
+    attributes: {label: The idea, description: What a learner would be able to do after it.}
+    validations: {required: true}
+  - type: checkboxes
+    id: write
+    attributes:
+      label: Writing it
+      options: [{label: I'd like to write it myself}]

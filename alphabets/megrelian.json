@@ -1,0 +1,290 @@
+[
+  {
+    "letter": "ა",
+    "name": "Ani",
+    "word": "ართი",
+    "meaning": "One",
+    "letterIpa": "/ɑ/",
+    "wordIpa": "/ɑrtʰi/"
+  },
+  {
+    "letter": "ბ",
+    "name": "Bani",
+    "word": "ბარჩხალი",
+    "meaning": "Sparkle / Radiance",
+    "letterIpa": "/b/",
+    "wordIpa": "/bɑrt͡ʃʰxɑli/"
+  },
+  {
+    "letter": "გ",
+    "name": "Gani",
+    "word": "გოთანა",
+    "meaning": "Dawn",
+    "letterIpa": "/ɡ/",
+    "wordIpa": "/ɡɔtʰɑnɑ/"
+  },
+  {
+    "letter": "დ",
+    "name": "Doni",
+    "word": "დოლო",
+    "meaning": "Meadow",
+    "letterIpa": "/d/",
+    "wordIpa": "/dɔlɔ/"
+  },
+  {
+    "letter": "ე",
+    "name": "Eni",
+    "word": "ეშხი",
+    "meaning": "Charm / Grace",
+    "letterIpa": "/ɛ/",
+    "wordIpa": "/ɛʃxi/"
+  },
+  {
+    "letter": "ვ",
+    "name": "Vini",
+    "word": "ვარდი",
+    "meaning": "Rose",
+    "letterIpa": "/v/",
+    "wordIpa": "/vɑrdi/"
+  },
+  {
+    "letter": "ზ",
+    "name": "Zeni",
+    "word": "ზღვა",
+    "meaning": "Sea",
+    "letterIpa": "/z/",
+    "wordIpa": "/zɣvɑ/"
+  },
+  {
+    "letter": "თ",
+    "name": "Tani",
+    "word": "თუთა",
+    "meaning": "Moon",
+    "letterIpa": "/tʰ/",
+    "wordIpa": "/tʰutʰɑ/"
+  },
+  {
+    "letter": "ი",
+    "name": "Ini",
+    "word": "იაია",
+    "meaning": "Violet",
+    "letterIpa": "/i/",
+    "wordIpa": "/iɑiɑ/"
+  },
+  {
+    "letter": "ჲ",
+    "name": "Hie (Yota)",
+    "word": "ქჲანა",
+    "meaning": "Country (variant of ქიანა)",
+    "letterIpa": "/j/",
+    "wordIpa": "/kʰjɑnɑ/"
+  },
+  {
+    "letter": "კ",
+    "name": "K'ani",
+    "word": "კოჩი",
+    "meaning": "Man / Person",
+    "letterIpa": "/kʼ/",
+    "wordIpa": "/kʼɔt͡ʃʰi/"
+  },
+  {
+    "letter": "ლ",
+    "name": "Lasi",
+    "word": "ლანდი",
+    "meaning": "Silhouette / Shadow",
+    "letterIpa": "/l/",
+    "wordIpa": "/lɑndi/"
+  },
+  {
+    "letter": "მ",
+    "name": "Mani",
+    "word": "მურიცხი",
+    "meaning": "Star",
+    "letterIpa": "/m/",
+    "wordIpa": "/murit͡sʰxi/"
+  },
+  {
+    "letter": "ნ",
+    "name": "Nari",
+    "word": "ნინა",
+    "meaning": "Tongue / Language",
+    "letterIpa": "/n/",
+    "wordIpa": "/ninɑ/"
+  },
+  {
+    "letter": "ო",
+    "name": "Oni",
+    "word": "ორქო",
+    "meaning": "Gold",
+    "letterIpa": "/ɔ/",
+    "wordIpa": "/ɔrkʰɔ/"
+  },
+  {
+    "letter": "პ",
+    "name": "P'ari",
+    "word": "პეული",
+    "meaning": "Blossom (of a fruit tree)",
+    "letterIpa": "/pʼ/",
+    "wordIpa": "/pʼɛuli/"
+  },
+  {
+    "letter": "ჟ",
+    "name": "Zhani",
+    "word": "ჟირი",
+    "meaning": "Two",
+    "letterIpa": "/ʒ/",
+    "wordIpa": "/ʒiri/"
+  },
+  {
+    "letter": "რ",
+    "name": "Rae",
+    "word": "რული",
+    "meaning": "Slumber / Sleep",
+    "letterIpa": "/r/",
+    "wordIpa": "/ruli/"
+  },
+  {
+    "letter": "ს",
+    "name": "Sani",
+    "word": "სინთე",
+    "meaning": "Light",
+    "letterIpa": "/s/",
+    "wordIpa": "/sintʰɛ/"
+  },
+  {
+    "letter": "ტ",
+    "name": "T'ari",
+    "word": "ტყა",
+    "meaning": "Forest",
+    "letterIpa": "/tʼ/",
+    "wordIpa": "/tʼqʼɑ/"
+  },
+  {
+    "letter": "უ",
+    "name": "Uni",
+    "word": "ულირი",
+    "meaning": "Gone / Past (participle)",
+    "letterIpa": "/u/",
+    "wordIpa": "/uliri/"
+  },
+  {
+    "letter": "ჷ",
+    "name": "Yn (Schwa)",
+    "word": "ცჷრა",
+    "meaning": "Girl (variant of ცირა)",
+    "letterIpa": "/ə/",
+    "wordIpa": "/t͡sʰərɑ/"
+  },
+  {
+    "letter": "ფ",
+    "name": "Pari",
+    "word": "ფსუა",
+    "meaning": "Wing",
+    "letterIpa": "/pʰ/",
+    "wordIpa": "/pʰsuɑ/"
+  },
+  {
+    "letter": "ქ",
+    "name": "Kani",
+    "word": "ქიანა",
+    "meaning": "Country / World",
+    "letterIpa": "/kʰ/",
+    "wordIpa": "/kʰiɑnɑ/"
+  },
+  {
+    "letter": "ღ",
+    "name": "Ghani",
+    "word": "ღალი",
+    "meaning": "Stream / Brook",
+    "letterIpa": "/ɣ/",
+    "wordIpa": "/ɣɑli/"
+  },
+  {
+    "letter": "ყ",
+    "name": "Q'ari",
+    "word": "ყებური",
+    "meaning": "Hearth",
+    "letterIpa": "/qʼ/",
+    "wordIpa": "/qʼɛburi/"
+  },
+  {
+    "letter": "ჸ",
+    "name": "Elifi",
+    "word": "ჸოროფა",
+    "meaning": "Love",
+    "letterIpa": "/ʔ/",
+    "wordIpa": "/ʔɔrɔpʰɑ/"
+  },
+  {
+    "letter": "შ",
+    "name": "Shini",
+    "word": "შური",
+    "meaning": "Soul / Spirit",
+    "letterIpa": "/ʃ/",
+    "wordIpa": "/ʃuri/"
+  },
+  {
+    "letter": "ჩ",
+    "name": "Chini",
+    "word": "ჩხორია",
+    "meaning": "Ray of Light",
+    "letterIpa": "/t͡ʃʰ/",
+    "wordIpa": "/t͡ʃʰxɔriɑ/"
+  },
+  {
+    "letter": "ც",
+    "name": "Tsani",
+    "word": "ცა",
+    "meaning": "Sky",
+    "letterIpa": "/t͡sʰ/",
+    "wordIpa": "/t͡sʰɑ/"
+  },
+  {
+    "letter": "ძ",
+    "name": "Dzili",
+    "word": "ძიცა",
+    "meaning": "Laughter",
+    "letterIpa": "/d͡z/",
+    "wordIpa": "/d͡zit͡sʰɑ/"
+  },
+  {
+    "letter": "წ",
+    "name": "Ts'ili",
+    "word": "წყარი",
+    "meaning": "Water",
+    "letterIpa": "/t͡sʼ/",
+    "wordIpa": "/t͡sʼqʼɑri/"
+  },
+  {
+    "letter": "ჭ",
+    "name": "Ch'ari",
+    "word": "ჭვიმა",
+    "meaning": "Rain",
+    "letterIpa": "/t͡ʃʼ/",
+    "wordIpa": "/t͡ʃʼvimɑ/"
+  },
+  {
+    "letter": "ხ",
+    "name": "Khani",
+    "word": "ხვიჩა",
+    "meaning": "Bright / Sparkling",
+    "letterIpa": "/x/",
+    "wordIpa": "/xvit͡ʃʰɑ/"
+  },
+  {
+    "letter": "ჯ",
+    "name": "Jani",
+    "word": "ჯადო",
+    "meaning": "Magic",
+    "letterIpa": "/d͡ʒ/",
+    "wordIpa": "/d͡ʒɑdɔ/"
+  },
+  {
+    "letter": "ჰ",
+    "name": "Hae",
+    "word": "ჰამო",
+    "meaning": "Sweet / Melodious",
+    "letterIpa": "/h/",
+    "wordIpa": "/hɑmɔ/"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "letter": "A a",
+    "name": "Ani",
+    "word": "ağani",
+    "meaning": "New / Fresh",
+    "letterIpa": "/ɑ/",
+    "wordIpa": "/ɑɣɑni/"
+  },
+  {
+    "letter": "B b",
+    "name": "Bani",
+    "word": "bere",
+    "meaning": "Child",
+    "letterIpa": "/b/",
+    "wordIpa": "/bɛrɛ/"
+  },
+  {
+    "letter": "G g",
+    "name": "Gani",
+    "word": "guri",
+    "meaning": "Heart",
+    "letterIpa": "/ɡ/",
+    "wordIpa": "/ɡuri/"
+  },
+  {
+    "letter": "D d",
+    "name": "Doni",
+    "word": "dido",
+    "meaning": "Very",
+    "letterIpa": "/d/",
+    "wordIpa": "/didɔ/"
+  },
+  {
+    "letter": "E e",
+    "name": "Eni",
+    "word": "ek",
+    "meaning": "There",
+    "letterIpa": "/ɛ/",
+    "wordIpa": "/ɛkʰ/"
+  },
+  {
+    "letter": "V v",
+    "name": "Vini",
+    "word": "var",
+    "meaning": "No / Not",
+    "letterIpa": "/v/",
+    "wordIpa": "/vɑr/"
+  },
+  {
+    "letter": "Z z",
+    "name": "Zeni",
+    "word": "zuğa",
+    "meaning": "Sea",
+    "letterIpa": "/z/",
+    "wordIpa": "/zuɣɑ/"
+  },
+  {
+    "letter": "T t",
+    "name": "Tani",
+    "word": "tuta",
+    "meaning": "Moon / Month",
+    "letterIpa": "/tʰ/",
+    "wordIpa": "/tʰutʰɑ/"
+  },
+  {
+    "letter": "I i",
+    "name": "Ini",
+    "word": "ixi",
+    "meaning": "Wind",
+    "letterIpa": "/i/",
+    "wordIpa": "/ixi/"
+  },
+  {
+    "letter": "Ǩ ǩ",
+    "name": "K'ani",
+    "word": "ǩvinçi",
+    "meaning": "Bird",
+    "letterIpa": "/kʼ/",
+    "wordIpa": "/kʼvint͡ʃʰi/"
+  },
+  {
+    "letter": "L l",
+    "name": "Lasi",
+    "word": "luği",
+    "meaning": "Fig",
+    "letterIpa": "/l/",
+    "wordIpa": "/luɣi/"
+  },
+  {
+    "letter": "M m",
+    "name": "Mani",
+    "word": "mskva",
+    "meaning": "Beautiful",
+    "letterIpa": "/m/",
+    "wordIpa": "/mskʰvɑ/"
+  },
+  {
+    "letter": "N n",
+    "name": "Nari",
+    "word": "nena",
+    "meaning": "Tongue / Language",
+    "letterIpa": "/n/",
+    "wordIpa": "/nɛnɑ/"
+  },
+  {
+    "letter": "Y y",
+    "name": "Hie (Yota)",
+    "word": "yali",
+    "meaning": "Mirror",
+    "letterIpa": "/j/",
+    "wordIpa": "/jɑli/"
+  },
+  {
+    "letter": "O o",
+    "name": "Oni",
+    "word": "ololi",
+    "meaning": "Owl",
+    "letterIpa": "/ɔ/",
+    "wordIpa": "/ɔlɔli/"
+  },
+  {
+    "letter": "P̌ p̌",
+    "name": "P'ari",
+    "word": "p̌ici",
+    "meaning": "Mouth",
+    "letterIpa": "/pʼ/",
+    "wordIpa": "/pʼid͡ʒi/"
+  },
+  {
+    "letter": "J j",
+    "name": "Zhani",
+    "word": "juri",
+    "meaning": "Two",
+    "letterIpa": "/ʒ/",
+    "wordIpa": "/ʒuri/"
+  },
+  {
+    "letter": "R r",
+    "name": "Rae",
+    "word": "raǩani",
+    "meaning": "Hill",
+    "letterIpa": "/r/",
+    "wordIpa": "/rɑkʼɑni/"
+  },
+  {
+    "letter": "S s",
+    "name": "Sani",
+    "word": "seri",
+    "meaning": "Night",
+    "letterIpa": "/s/",
+    "wordIpa": "/sɛri/"
+  },
+  {
+    "letter": "Ť ť",
+    "name": "T'ari",
+    "word": "ťoba",
+    "meaning": "Lake",
+    "letterIpa": "/tʼ/",
+    "wordIpa": "/tʼɔbɑ/"
+  },
+  {
+    "letter": "U u",
+    "name": "Uni",
+    "word": "uça",
+    "meaning": "Black",
+    "letterIpa": "/u/",
+    "wordIpa": "/ut͡ʃʰɑ/"
+  },
+  {
+    "letter": "P p",
+    "name": "Pari",
+    "word": "parpali",
+    "meaning": "Butterfly",
+    "letterIpa": "/pʰ/",
+    "wordIpa": "/pʰɑrpʰɑli/"
+  },
+  {
+    "letter": "K k",
+    "name": "Kani",
+    "word": "kotume",
+    "meaning": "Hen",
+    "letterIpa": "/kʰ/",
+    "wordIpa": "/kʰɔtʰumɛ/"
+  },
+  {
+    "letter": "Ğ ğ",
+    "name": "Ghani",
+    "word": "ğali",
+    "meaning": "Brook / Stream",
+    "letterIpa": "/ɣ/",
+    "wordIpa": "/ɣɑli/"
+  },
+  {
+    "letter": "Q q",
+    "name": "Q'ari",
+    "word": "quci",
+    "meaning": "Ear",
+    "letterIpa": "/qʼ/",
+    "wordIpa": "/qʼud͡ʒi/"
+  },
+  {
+    "letter": "Ş ş",
+    "name": "Shini",
+    "word": "şuri",
+    "meaning": "Soul / Spirit",
+    "letterIpa": "/ʃ/",
+    "wordIpa": "/ʃuri/"
+  },
+  {
+    "letter": "Ç ç",
+    "name": "Chini",
+    "word": "çxomi",
+    "meaning": "Fish",
+    "letterIpa": "/t͡ʃʰ/",
+    "wordIpa": "/t͡ʃʰxɔmi/"
+  },
+  {
+    "letter": "Ʒ ʒ",
+    "name": "Tsani",
+    "word": "ʒa",
+    "meaning": "Sky",
+    "letterIpa": "/t͡sʰ/",
+    "wordIpa": "/t͡sʰɑ/"
+  },
+  {
+    "letter": "Ž ž",
+    "name": "Dzili",
+    "word": "žapi",
+    "meaning": "Thread",
+    "letterIpa": "/d͡z/",
+    "wordIpa": "/d͡zɑpʰi/"
+  },
+  {
+    "letter": "Ǯ ǯ",
+    "name": "Ts'ili",
+    "word": "ǯǩai",
+    "meaning": "Water",
+    "letterIpa": "/t͡sʼ/",
+    "wordIpa": "/t͡sʼkʼɑi/"
+  },
+  {
+    "letter": "Ç̌ ç̌",
+    "name": "Ch'ari",
+    "word": "ç̌uburi",
+    "meaning": "Chestnut",
+    "letterIpa": "/t͡ʃʼ/",
+    "wordIpa": "/t͡ʃʼuburi/"
+  },
+  {
+    "letter": "X x",
+    "name": "Khani",
+    "word": "xe",
+    "meaning": "Hand",
+    "letterIpa": "/x/",
+    "wordIpa": "/xɛ/"
+  },
+  {
+    "letter": "C c",
+    "name": "Jani",
+    "word": "cuma",
+    "meaning": "Brother",
+    "letterIpa": "/d͡ʒ/",
+    "wordIpa": "/d͡ʒumɑ/"
+  },
+  {
+    "letter": "H h",
+    "name": "Hae",
+    "word": "hava",
+    "meaning": "Air",
+    "letterIpa": "/h/",
+    "wordIpa": "/hɑvɑ/"
+  },
+  {
+    "letter": "F f",
+    "name": "Fi",
+    "word": "furťuna",
+    "meaning": "Storm",
+    "letterIpa": "/f/",
+    "wordIpa": "/furtʼunɑ/"
+  }
+]

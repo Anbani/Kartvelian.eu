@@ -1,0 +1,17 @@
+# Laz: levels → modules. Live when lessons/laz/ has the same level + pageSlug.
+levels:
+- id: intro
+  icon: sprout
+  title: Introduction to Laz
+  cefr: –
+  focus: 'Laz basics, with attention to both writing traditions: Mkhedruli on the Georgian side, the Latin-based
+    alphabet on the Turkish.'
+  modules:
+  - num: 1
+    title: Laz Alphabet (Both Scripts)
+    blurb: How Laz is written in Georgia and in Türkiye, and how the two systems map onto each other.
+    slug: alphabet
+  - num: 2
+    title: Greetings in Laz
+    blurb: Common openings and the elementary introductions.
+    slug: greetings

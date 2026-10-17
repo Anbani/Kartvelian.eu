@@ -1,0 +1,332 @@
+[
+  {
+    "letter": "ა",
+    "name": "Ani",
+    "word": "აისი",
+    "meaning": "Dawn",
+    "audio": {
+      "letter": "/audio/letters/ani.mp3",
+      "word": "/audio/words/aisi.mp3"
+    }
+  },
+  {
+    "letter": "ბ",
+    "name": "Bani",
+    "word": "ბროლი",
+    "meaning": "Crystal",
+    "audio": {
+      "letter": "/audio/letters/bani.mp3",
+      "word": "/audio/words/broli.mp3"
+    }
+  },
+  {
+    "letter": "გ",
+    "name": "Gani",
+    "word": "გედი",
+    "meaning": "Swan",
+    "audio": {
+      "letter": "/audio/letters/gani.mp3",
+      "word": "/audio/words/gedi.mp3"
+    }
+  },
+  {
+    "letter": "დ",
+    "name": "Doni",
+    "word": "დუმილი",
+    "meaning": "Silence",
+    "audio": {
+      "letter": "/audio/letters/doni.mp3",
+      "word": "/audio/words/dumili.mp3"
+    }
+  },
+  {
+    "letter": "ე",
+    "name": "Eni",
+    "word": "ენძელა",
+    "meaning": "Snowdrop",
+    "audio": {
+      "letter": "/audio/letters/eni.mp3",
+      "word": "/audio/words/endzela.mp3"
+    }
+  },
+  {
+    "letter": "ვ",
+    "name": "Vini",
+    "word": "ველი",
+    "meaning": "Meadow",
+    "audio": {
+      "letter": "/audio/letters/vini.mp3",
+      "word": "/audio/words/veli.mp3"
+    }
+  },
+  {
+    "letter": "ზ",
+    "name": "Zeni",
+    "word": "ზღაპარი",
+    "meaning": "Fairy tale",
+    "audio": {
+      "letter": "/audio/letters/zeni.mp3",
+      "word": "/audio/words/zghapari.mp3"
+    }
+  },
+  {
+    "letter": "თ",
+    "name": "Tani",
+    "word": "თოლია",
+    "meaning": "Seagull",
+    "audio": {
+      "letter": "/audio/letters/tani.mp3",
+      "word": "/audio/words/tolia.mp3"
+    }
+  },
+  {
+    "letter": "ი",
+    "name": "Ini",
+    "word": "ია",
+    "meaning": "Violet",
+    "audio": {
+      "letter": "/audio/letters/ini.mp3",
+      "word": "/audio/words/ia.mp3"
+    }
+  },
+  {
+    "letter": "კ",
+    "name": "K'ani",
+    "word": "კვირტი",
+    "meaning": "Bud",
+    "audio": {
+      "letter": "/audio/letters/kani-ej.mp3",
+      "word": "/audio/words/kvirti.mp3"
+    }
+  },
+  {
+    "letter": "ლ",
+    "name": "Lasi",
+    "word": "ლაჟვარდი",
+    "meaning": "Azure",
+    "audio": {
+      "letter": "/audio/letters/lasi.mp3",
+      "word": "/audio/words/lazhvardi.mp3"
+    }
+  },
+  {
+    "letter": "მ",
+    "name": "Mani",
+    "word": "მთვარე",
+    "meaning": "Moon",
+    "audio": {
+      "letter": "/audio/letters/mani.mp3",
+      "word": "/audio/words/mtvare.mp3"
+    }
+  },
+  {
+    "letter": "ნ",
+    "name": "Nari",
+    "word": "ნიავი",
+    "meaning": "Gentle breeze",
+    "audio": {
+      "letter": "/audio/letters/nari.mp3",
+      "word": "/audio/words/niavi.mp3"
+    }
+  },
+  {
+    "letter": "ო",
+    "name": "Oni",
+    "word": "ოცნება",
+    "meaning": "Dream",
+    "audio": {
+      "letter": "/audio/letters/oni.mp3",
+      "word": "/audio/words/otsneba.mp3"
+    }
+  },
+  {
+    "letter": "პ",
+    "name": "P'ari",
+    "word": "პეპელა",
+    "meaning": "Butterfly",
+    "audio": {
+      "letter": "/audio/letters/pari-ej.mp3",
+      "word": "/audio/words/pepela.mp3"
+    }
+  },
+  {
+    "letter": "ჟ",
+    "name": "Zhani",
+    "word": "ჟღერა",
+    "meaning": "Resonance",
+    "audio": {
+      "letter": "/audio/letters/zhani.mp3",
+      "word": "/audio/words/zhghera.mp3"
+    }
+  },
+  {
+    "letter": "რ",
+    "name": "Rae",
+    "word": "რტო",
+    "meaning": "Branch",
+    "audio": {
+      "letter": "/audio/letters/rae.mp3",
+      "word": "/audio/words/rto.mp3"
+    }
+  },
+  {
+    "letter": "ს",
+    "name": "Sani",
+    "word": "სხივი",
+    "meaning": "Ray of light",
+    "audio": {
+      "letter": "/audio/letters/sani.mp3",
+      "word": "/audio/words/skhivi.mp3"
+    }
+  },
+  {
+    "letter": "ტ",
+    "name": "T'ari",
+    "word": "ტალღა",
+    "meaning": "Wave",
+    "audio": {
+      "letter": "/audio/letters/tari-ej.mp3",
+      "word": "/audio/words/talgha.mp3"
+    }
+  },
+  {
+    "letter": "უ",
+    "name": "Uni",
+    "word": "უხილავი",
+    "meaning": "Invisible",
+    "audio": {
+      "letter": "/audio/letters/uni.mp3",
+      "word": "/audio/words/ukhilavi.mp3"
+    }
+  },
+  {
+    "letter": "ფ",
+    "name": "Pari",
+    "word": "ფიფქი",
+    "meaning": "Snowflake",
+    "audio": {
+      "letter": "/audio/letters/pari.mp3",
+      "word": "/audio/words/fipki.mp3"
+    }
+  },
+  {
+    "letter": "ქ",
+    "name": "Kani",
+    "word": "ქნარი",
+    "meaning": "Lyre",
+    "audio": {
+      "letter": "/audio/letters/kani.mp3",
+      "word": "/audio/words/knari.mp3"
+    }
+  },
+  {
+    "letter": "ღ",
+    "name": "Ghani",
+    "word": "ღიმილი",
+    "meaning": "Smile",
+    "audio": {
+      "letter": "/audio/letters/ghani.mp3",
+      "word": "/audio/words/ghimili.mp3"
+    }
+  },
+  {
+    "letter": "ყ",
+    "name": "Q'ari",
+    "word": "ყვავილი",
+    "meaning": "Flower",
+    "audio": {
+      "letter": "/audio/letters/qari-ej.mp3",
+      "word": "/audio/words/qvavili.mp3"
+    }
+  },
+  {
+    "letter": "შ",
+    "name": "Shini",
+    "word": "შრიალი",
+    "meaning": "Rustle",
+    "audio": {
+      "letter": "/audio/letters/shini.mp3",
+      "word": "/audio/words/shriali.mp3"
+    }
+  },
+  {
+    "letter": "ჩ",
+    "name": "Chini",
+    "word": "ჩურჩული",
+    "meaning": "Whisper",
+    "audio": {
+      "letter": "/audio/letters/chini.mp3",
+      "word": "/audio/words/churchuli.mp3"
+    }
+  },
+  {
+    "letter": "ც",
+    "name": "Tsani",
+    "word": "ცვარი",
+    "meaning": "Dewdrop",
+    "audio": {
+      "letter": "/audio/letters/tsani.mp3",
+      "word": "/audio/words/tsvari.mp3"
+    }
+  },
+  {
+    "letter": "ძ",
+    "name": "Dzili",
+    "word": "ძოწი",
+    "meaning": "Garnet",
+    "audio": {
+      "letter": "/audio/letters/dzili.mp3",
+      "word": "/audio/words/dzotsi.mp3"
+    }
+  },
+  {
+    "letter": "წ",
+    "name": "Ts'ili",
+    "word": "წამი",
+    "meaning": "Moment",
+    "audio": {
+      "letter": "/audio/letters/tsili-ej.mp3",
+      "word": "/audio/words/tsami.mp3"
+    }
+  },
+  {
+    "letter": "ჭ",
+    "name": "Ch'ari",
+    "word": "ჭალა",
+    "meaning": "Riverside grove",
+    "audio": {
+      "letter": "/audio/letters/chari-ej.mp3",
+      "word": "/audio/words/chala.mp3"
+    }
+  },
+  {
+    "letter": "ხ",
+    "name": "Khani",
+    "word": "ხსოვნა",
+    "meaning": "Memory",
+    "audio": {
+      "letter": "/audio/letters/khani.mp3",
+      "word": "/audio/words/khsovna.mp3"
+    }
+  },
+  {
+    "letter": "ჯ",
+    "name": "Jani",
+    "word": "ჯანღი",
+    "meaning": "Mountain mist",
+    "audio": {
+      "letter": "/audio/letters/jani.mp3",
+      "word": "/audio/words/janghi.mp3"
+    }
+  },
+  {
+    "letter": "ჰ",
+    "name": "Hae",
+    "word": "ჰანგი",
+    "meaning": "Melody",
+    "audio": {
+      "letter": "/audio/letters/hae.mp3",
+      "word": "/audio/words/hangi.mp3"
+    }
+  }
+]
